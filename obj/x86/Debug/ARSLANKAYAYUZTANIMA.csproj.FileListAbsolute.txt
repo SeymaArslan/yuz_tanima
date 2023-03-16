@@ -1,0 +1,10 @@
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ARSLANKAYAYUZTANIMA.csproj.GenerateResource.Cache
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\tuba\SON DONEM\BITIRME\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
